@@ -24,7 +24,7 @@ export default function BannerTextSelector({children}) {
             </div>
             {bannerStyle === "Multi Line" && <div className="banner-desc-input">
                 <label htmlFor="header" >Please enter Banner Description:</label>
-                <textarea id="header" placeholder={placeholder} onChange={(e) => handleChange(e, 1)}></textarea>
+                <textarea id="header" placeholder="Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam." onChange={(e) => handleChange(e, 1)}></textarea>
             </div>}
         </>
     )
