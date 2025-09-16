@@ -2,20 +2,20 @@
 
 ## Homepage
 
-![Homepage Screenshot](./src/assets/homepage.png
+![Homepage Screenshot](./src/assets/screenshots/homepage.png)
 
 ## Badge
 
-![Badge Screenshot](./src/assets/badge.png)
+![Badge Screenshot](./src/assets/screenshots/badge.png)
 
 ## Banner
 
-![Banner Screenshot](./src/assets/banner.png)
+![Banner Screenshot](./src/assets/screenshots/banner.png)
 
 ## Card
 
-![Card Screenshot](./src/assets/card.png)
+![Card Screenshot](./src/assets/screenshots/card.png)
 
 ## Testimonial
 
-![Homepage Screenshot](./src/assets/testimonial.png)
+![Testimonial Screenshot](./src/assets/screenshots/testimonial.png)
